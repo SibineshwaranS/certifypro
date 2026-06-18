@@ -55,9 +55,3 @@ CertifyPro certificates aren't just PDFs; they are cryptographically secured ass
 
 ---
 
-## 🌐 Enterprise & Scaling
-For organizations requiring unlimited batch sizes (1,000+ per run), custom API access, or white-labeling, contact the **VSGRPS Technologies** team at [vsgrps.netlify.app](https://vsgrps.netlify.app/).
-
----
-
-© 2026 CertifyPro. Empowering creators and securing achievements worldwide.
